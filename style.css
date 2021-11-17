@@ -1,0 +1,28 @@
+h1 {
+  color: #5F24CE;
+  text-decoration: underline;
+  font-size: 30px;
+}
+h2 {
+  color: #BD2EE7;
+  text-decoration: underline;
+  font-size: 30px;
+}
+h3 {
+  color: #F0225E;
+  text-decoration: underline;
+  font-size: 30px;
+}
+h4 {
+  color: #FE5A32;
+  text-decoration: underline;
+  font-size: 30px;
+}
+h5 {
+  color: #FF8927;
+  text-decoration: underline;
+  font-size: 30px;
+}
+p {
+  color: #864ffe;
+}
